@@ -1,0 +1,9 @@
+
+body {
+    background: #48C9B0  ;
+}
+
+@media (max-width: 600px) { body {
+        background: #FF00FF  ;
+    }
+}
